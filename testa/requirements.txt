@@ -1,0 +1,8 @@
+streamlit
+fiona==1.8.20
+
+GDAL==3.3.2
+geopandas
+shapely
+geocoder
+
